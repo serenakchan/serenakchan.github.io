@@ -1,0 +1,10 @@
+body, html {
+margin: 0px;
+height: 125%;
+width: 100%;
+background: white;
+position: static;
+max-width: 100%;
+overflow-x: hidden;
+height: 100vh;
+} 
